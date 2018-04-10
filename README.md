@@ -8,4 +8,3 @@ HTML5, CSS, Pure JS
 
 # How to run
 Just open the index.html with any browser and play.
-# bird-in-cross-hair
